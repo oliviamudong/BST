@@ -8,4 +8,4 @@ include_directories(.)
 add_executable(BST
         BST312.h
         main.cpp
-        test.txt)
+        test.txt BST312.cpp)
